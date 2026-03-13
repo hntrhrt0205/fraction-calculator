@@ -1,5 +1,4 @@
-/*Hunter Hart
-Purpose: To add and subtract pairs of integer
+/*Purpose: To add and subtract pairs of integer
 fractions*/
 
 #define _CRT_SECURE_NO_WARNINGS
