@@ -1,0 +1,3 @@
+﻿  Program2.cpp
+C:\Users\hunte\source\repos\Program2\Program2\Program2.cpp(16,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Program2.vcxproj -> C:\Users\hunte\source\repos\Program2\x64\Debug\Program2.exe
